@@ -13,8 +13,11 @@ How To Play: No, just play.
 Sources:
 
 Voice acting by David Hayter.
+
 https://freesound.org/people/Dean-Raule_DiArchangeli/sounds/132743/
+
 https://freesound.org/people/kennysvoice/sounds/351777/
+
 Character models from here: https://kenney.nl/assets/3d-characters
 
 Notes of interest:
