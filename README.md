@@ -6,7 +6,7 @@ Design: It might make you laugh, or cringe.
 
 Screen Shot:
 
-![Screen Shot](screenshot.png)
+![Screen Shot](screenshot.png) 
 
 How To Play:
 
