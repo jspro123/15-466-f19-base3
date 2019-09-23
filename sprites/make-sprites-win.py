@@ -3,6 +3,9 @@
 #This exists mainly to work around the (many) problems with doing (simple) CLI things on windows. Like lack of shell globbing.
 
 name = "the-planet"
+name2 = "scope"
+name3 = "trade-font"
+name4 = "background"
 gimp = "C:\\Program Files\\GIMP 2\\bin\\gimp-console-2.10.exe"
 
 import subprocess
@@ -22,6 +25,30 @@ subprocess.run([
 	"python",
 	"extract-sprites.py",
 	name + ".list",
+	name,
+	"--gimp", gimp
+], check=True)
+
+subprocess.run([
+	"python",
+	"extract-sprites.py",
+	name2 + ".list",
+	name,
+	"--gimp", gimp
+], check=True)
+
+subprocess.run([
+	"python",
+	"extract-sprites.py",
+	name3 + ".list",
+	name,
+	"--gimp", gimp
+], check=True)
+
+subprocess.run([
+	"python",
+	"extract-sprites.py",
+	name4 + ".list",
 	name,
 	"--gimp", gimp
 ], check=True)

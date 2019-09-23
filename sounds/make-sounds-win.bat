@@ -1,1 +1,14 @@
-..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 cold-dunes.wav ..\dist\cold-dunes.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 boots_deactivate.wav ..\dist\boots_deactivate.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 col_good_job.wav ..\dist\col_good_job.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 col_line_1.wav ..\dist\col_line_1.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 col_line_2.wav ..\dist\col_line_2.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 col_line_3.wav ..\dist\col_line_3.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 people_same.wav ..\dist\people_same.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 random_person.wav ..\dist\random_person.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 ring.wav ..\dist\ring.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 set_up.wav ..\dist\set_up.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 snack_controls.wav ..\dist\snack_controls.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 snack_line_1.wav ..\dist\snack_line_1.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 snack_line_2.wav ..\dist\snack_line_2.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 snack_line_3.wav ..\dist\snack_line_3.opus
+..\..\nest-libs\windows\opus-tools\bin\opusenc.exe --vbr --bitrate 128 sniper_shot.wav ..\dist\sniper_shot.opus

@@ -14,6 +14,8 @@ for i in range(0,len(sys.argv)):
 		args = sys.argv[i+1:]
 
 if len(args) != 2:
+	print("Butch")
+	print(args)
 	print("\n\nUsage:\nblender --background --python export-meshes.py -- <infile.blend>[:collection] <outfile.pnct>\nExports the meshes referenced by all objects in the specified collection (default: all objects) to a binary blob.\n")
 	exit(1)
 

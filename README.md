@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Professional Sniper 6
 
-Author: (TODO: your name)
+Author: Malek Anabtawi
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: It might make you laugh, or cringe.
 
 Screen Shot:
 
@@ -10,10 +10,17 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+No, just play.
 
 Sources:
 
-(TODO: fill in information about the sources of any **artwork** or **sounds** you used in the game that you did not create yourself. Feel free to also credit yourself for things you did make.)
+Voice acting by David Hayter.
+https://freesound.org/people/Dean-Raule_DiArchangeli/sounds/132743/
+https://freesound.org/people/kennysvoice/sounds/351777/
+Character models from here: https://kenney.nl/assets/3d-characters
+
+Notes of interest:
+
+- See the honest readme, in this repo.
 
 This game was built with [NEST](NEST.md).

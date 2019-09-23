@@ -7,6 +7,7 @@
 #include <fstream>
 
 SpriteAtlas::SpriteAtlas(std::string const &filebase) {
+
 	std::string png_path = filebase + ".png";
 	atlas_path = filebase + ".atlas";
 

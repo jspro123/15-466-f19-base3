@@ -45,7 +45,8 @@ struct Scene {
 		glm::mat4 make_world_to_local() const;
 
 		//since hierarchy is tracked through pointers, copy-constructing a transform  is not advised:
-		Transform(Transform const &) = delete;
+		//Dont' tell me what to do -_-
+		Transform(Transform const & t) = delete;
 		//if we delete some constructors, we need to let the compiler know that the default constructor is still okay:
 		Transform() = default;
 	};
