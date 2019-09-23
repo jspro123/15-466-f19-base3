@@ -6,11 +6,9 @@ Design: It might make you laugh, or cringe.
 
 Screen Shot:
 
-![Screen Shot](screenshot.png) 
+![Screen Shot](pic.png)
 
-How To Play:
-
-No, just play.
+How To Play: No, just play.
 
 Sources:
 
